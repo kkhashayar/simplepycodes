@@ -1,9 +1,9 @@
-As a part of practice project, i tried to build some sort of portfolio with flask-HTML-CSS-Bootstrap. 
-The intention and focus of the project is to learn Flask framework in practical way by creating real project.
+As a part of a practice project, I tried to build some sort of portfolio with flask-HTML-CSS-Bootstrap. 
+The intention and focus of the project is to learn Flask framework in a practical way by creating a real project.
 pages created by raw HTML and Bootstrap. smtplib for mail handling which i might change it later for better performance.
-File structure is very simple and straigh forward.
+The file structure is very simple and straight forward.
 The project is stll under development. 
-Static folder is empty i havent done much CSS. I tried to use different file structure but it might be not the best way.
+The static folder is empty i haven't done much CSS. I tried to use a different file structures but it might be not the best way.
 I used pythonanywhere.com to host the site and you can check the online version at:
 http://khashayarn.pythonanywhere.com/
 
